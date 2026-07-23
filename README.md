@@ -4,7 +4,7 @@
 - 🌱 currently learning about AI
 - 🏛️ student of Chinese language and culture
 - 💬 she/her
-- 📫 [linkedin](https://linkedin.com/in/seu-perfil) · [medium](https://medium.com/@seu-usuario) · [behance]()
+- 📫 [linkedin](https://www.linkedin.com/in/leticiastahl/) · [medium](https://medium.com/@leticiastahl) · [behance](https://www.behance.net/leticiastahl)
 
 ---
 <b> explore some projects: </b>
