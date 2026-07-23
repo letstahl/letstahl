@@ -1,13 +1,13 @@
-## Letícia Stahl
+## Leticia Stahl
 
 - ✨ brazilian data scientist · BI specialist
 - 🌱 currently learning about AI
 - 🏛️ student of Chinese language and culture
 - 💬 she/her
-- 📫 [linkedin](https://linkedin.com/in/seu-perfil) · [medium](https://medium.com/@seu-usuario)
+- 📫 [linkedin](https://linkedin.com/in/seu-perfil) · [medium](https://medium.com/@seu-usuario) · [behance]()
 
 ---
-<b> some projects: </b>
+<b> explore some projects: </b>
 <details>
 <summary>🩺 <b>pbip-doctor</b></summary>
 
@@ -36,4 +36,24 @@ interactive dashboard for Brazilian foreign trade: answers the 5 key questions a
 `Databricks · MLflow · PySpark · XGBoost · Random Forest · CatBoost · LightGBM`
 
 [→ repository](https://github.com/devletstahl/fraud-detection-comparative-analysis)
+</details>
+
+<details>
+<summary>🤝 <b>mercado_solidario</b></summary>
+
+digitized a community food distribution program: family registration, stock control, and donor points, split between a hand-built PHP admin app and a WordPress public site.
+
+`PHP · MySQL · WordPress · Bootstrap`
+
+[→ repository](https://github.com/edunucleo/mercado_solidario)
+</details>
+
+<details>
+<summary>🎬 <b>90smovies-netflix</b></summary>
+
+EDA playground on 90s Netflix movies, less about the answers and more about chart-choice reasoning: line vs. bar vs. box plot vs. word cloud, and why each fits the question.
+
+`Python · Pandas · Matplotlib · Seaborn`
+
+[→ repository](https://github.com/devletstahl/90smovies-netflix)
 </details>
