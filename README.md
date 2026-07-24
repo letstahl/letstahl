@@ -1,7 +1,7 @@
 ## Leticia Stahl
 
 - ✨ brazilian data scientist · BI specialist
-- 🌱 currently learning about AI
+- 🌱 currently learning about genAI and LLM
 - 🏛️ student of Chinese language and culture
 - 💬 she/her
 - 📫 [linkedin](https://www.linkedin.com/in/leticiastahl/) · [medium](https://medium.com/@leticiastahl) · [behance](https://www.behance.net/leticiastahl)
