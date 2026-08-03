@@ -3,15 +3,19 @@
 <h1 align="center">Leticia Stahl</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Data+Scientist;BI+%C2%B7+Sales+Ops+%C2%B7+Marketing+Intelligence;turning+data+into+decisions" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Data+Scientist;BI+%C2%B7+Sales+Ops+%C2%B7+Market+Intelligence" alt="typing" />
 </p>
 
 <p align="center">
-data scientist specialized in <b>BI, Sales Ops & Marketing Intelligence</b> — I build the models and dashboards teams actually use to decide, not just look at.
+data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
 </p>
 
 <p align="center">
 🏛️ also studying Chinese language and culture · 💬 she/her
+</p>
+
+<p align="center">
+🇧🇷 native · 🇺🇸 C1 · 🇪🇸 B1 · 🇨🇳 HSK1
 </p>
 
 <p align="center">
@@ -23,7 +27,10 @@ data scientist specialized in <b>BI, Sales Ops & Marketing Intelligence</b> — 
 <br />
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=letstahl&theme=default&hide_border=true&background=00000000&fire=888888&currStreakLabel=888888" alt="GitHub streak stats" width="480" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=letstahl&theme=github-dark-dimmed&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=letstahl&theme=default&hide_border=true&background=00000000" alt="GitHub streak stats" width="480" />
+</picture>
 </p>
 
 ---
@@ -33,17 +40,17 @@ data scientist specialized in <b>BI, Sales Ops & Marketing Intelligence</b> — 
 <details>
 <summary>📈 <b>brazil-trading-with-the-world</b></summary>
 
-interactive dashboard for Brazilian foreign trade: answers the 5 key questions about exports, imports, partners, states, and products.
+automated, zero-cost pipeline for Brazil's foreign trade data: from raw government files to a governed BigQuery model and a live Looker Studio dashboard.
 
-`Open data · Python · Power BI · DAX · Dimensional Modeling`
+`Cloud Run · BigQuery · Cloud Scheduler · Python · Looker Studio`
 
-[→ repository](https://github.com/letstahl/brazil-trading-with-the-world)
+[→ repository](https://github.com/letstahl/brazil-trading-with-the-world/tree/main)
 </details>
 
 <details>
 <summary>🎬 <b>oscars-best-director-gender-gap</b></summary>
 
-scroll-driven data story on the Oscars' gender gap in Best Director nominations, 1928–2025.
+scroll-driven data story on the Oscars' gender gap in Best Director nominations, from 1928 to 2025.
 
 `D3.js · Scrollytelling · Data Storytelling`
 
