@@ -35,64 +35,67 @@ data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
 
 ---
 
-<p><b>explore some projects</b></p>
+<p><b>projects</b></p>
 
-<details>
-<summary>📈 <b>brazil-trading-with-the-world</b></summary>
+<table>
+<tr>
+<td width="40">📈</td>
+<td>
 
-automated, zero-cost pipeline for Brazil's foreign trade data: from raw government files to a governed BigQuery model and a live Looker Studio dashboard.
-
+**[brazil-trading-with-the-world](https://github.com/letstahl/brazil-trading-with-the-world/tree/main)**
+automated, zero-cost pipeline for Brazil's foreign trade data. from raw government files to a governed BigQuery model and a live Looker Studio dashboard.
 `Cloud Run · BigQuery · Cloud Scheduler · Python · Looker Studio`
 
-[→ repository](https://github.com/letstahl/brazil-trading-with-the-world/tree/main)
-</details>
+</td>
+</tr>
+<tr>
+<td>🎬</td>
+<td>
 
-<details>
-<summary>🎬 <b>oscars-best-director-gender-gap</b></summary>
-
+**[oscars-best-director-gender-gap](https://github.com/letstahl/oscars-best-director-gender-gap)** · [live](https://letstahl.github.io/oscars-best-director-gender-gap/)
 scroll-driven data story on the Oscars' gender gap in Best Director nominations, from 1928 to 2025.
-
 `D3.js · Scrollytelling · Data Storytelling`
 
-[→ repository](https://github.com/letstahl/oscars-best-director-gender-gap) · [→ live](https://letstahl.github.io/oscars-best-director-gender-gap/)
-</details>
+</td>
+</tr>
+<tr>
+<td>🩺</td>
+<td>
 
-<details>
-<summary>🩺 <b>pbip-doctor</b></summary>
-
-skill for Claude Code that catches silent errors in Power BI `.pbip` projects: invalid comments, broken references, serialization issues.
-
+**[pbip-doctor](https://github.com/letstahl/pbip-doctor)**
+skill for Claude Code that catches silent errors in Power BI `.pbip` projects. invalid comments, broken references, serialization issues.
 `MCP · Power BI · TMDL`
 
-[→ repository](https://github.com/letstahl/pbip-doctor)
-</details>
+</td>
+</tr>
+<tr>
+<td>🔍</td>
+<td>
 
-<details>
-<summary>🔍 <b>fraud-detection-comparative-analysis</b></summary>
-
-8 ML models compared for credit card fraud detection: predictive performance vs. computational efficiency.
-
+**[fraud-detection-comparative-analysis](https://github.com/letstahl/fraud-detection-comparative-analysis)**
+8 ML models compared for credit card fraud detection. predictive performance vs. computational efficiency.
 `Databricks · MLflow · PySpark · XGBoost · Random Forest · CatBoost · LightGBM`
 
-[→ repository](https://github.com/letstahl/fraud-detection-comparative-analysis)
-</details>
+</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td>
 
-<details>
-<summary>🤝 <b>mercado_solidario</b></summary>
-
-digitized a community food distribution program: family registration, stock control, and donor points, split between a hand-built PHP admin app and a WordPress public site.
-
+**[mercado_solidario](https://github.com/edunucleo/mercado_solidario)**
+digitized a community food distribution program. family registration, stock control, and donor points, split between a hand-built PHP admin app and a WordPress public site.
 `PHP · MySQL · WordPress · Bootstrap`
 
-[→ repository](https://github.com/edunucleo/mercado_solidario)
-</details>
+</td>
+</tr>
+<tr>
+<td>🎥</td>
+<td>
 
-<details>
-<summary>🎥 <b>90smovies-netflix</b></summary>
-
-EDA playground on 90s Netflix movies, less about the answers and more about chart-choice reasoning: line vs. bar vs. box plot vs. word cloud, and why each fits the question.
-
+**[90smovies-netflix](https://github.com/letstahl/90smovies-netflix)**
+EDA playground on 90s Netflix movies, less about the answers and more about chart-choice reasoning. line vs. bar vs. box plot vs. word cloud, and why each fits the question.
 `Python · Pandas · Matplotlib · Seaborn`
 
-[→ repository](https://github.com/letstahl/90smovies-netflix)
-</details>
+</td>
+</tr>
+</table>
