@@ -11,7 +11,7 @@ data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
 </p>
 
 <p align="center">
-🏛️ also studying Chinese language and culture · 💬 she/her
+🏛️ also studying Chinese language and culture · 💬 she/her · 🦋 INFP-T
 </p>
 
 <p align="center">
