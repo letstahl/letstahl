@@ -3,11 +3,11 @@
 <h1 align="center">Leticia Stahl</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Data+Scientist;BI+%C2%B7+Sales+Ops+%C2%B7+Market+Intelligence" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Business+Intelligence+Analyst;Sales+Ops+%C2%B7+RevOps+%C2%B7+Market+Intelligence" alt="typing" />
 </p>
 
 <p align="center">
-data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
+business intelligence analyst focused on <b>Sales Ops, RevOps & Market Intelligence</b>
 </p>
 
 <p align="center">
@@ -21,7 +21,8 @@ data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
 <p align="center">
 <a href="https://www.linkedin.com/in/leticiastahl/">linkedin</a> ·
 <a href="https://medium.com/@leticiastahl">medium</a> ·
-<a href="https://www.behance.net/leticiastahl">behance</a>
+<a href="https://www.behance.net/leticiastahl">behance</a> ·
+<a href="mailto:dev.leticiagoes@gmail.com">email</a>
 </p>
 
 <br />
@@ -38,6 +39,16 @@ data scientist specialized in <b>BI, Sales Ops & Market Intelligence</b>
 <p><b>projects</b></p>
 
 <table>
+<tr>
+<td width="40">💻</td>
+<td>
+
+**[portfolio.py](https://github.com/letstahl/portfolio.py)** · [live](https://letstahl.github.io/portfolio.py/)
+personal portfolio built as a fake code editor: tabs, syntax highlighting, an expandable skills pipeline linking to real projects, PT/EN/ES support, and light/dark themes.
+`HTML · CSS · JavaScript`
+
+</td>
+</tr>
 <tr>
 <td width="40">📈</td>
 <td>
