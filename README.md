@@ -1,112 +1,116 @@
-&nbsp;
+# Letícia Stahl
 
-<h1 align="center">Leticia Stahl</h1>
+Cientista de dados e estudante de língua e cultura chinesas na UNESP.
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=888888&center=true&vCenter=true&width=520&lines=Business+Intelligence+Analyst;Sales+Ops+%C2%B7+RevOps+%C2%B7+Market+Intelligence" alt="typing" />
-</p>
+Investigo relações China–Brasil por meio de dados, visualização e comunicação pública da pesquisa.
 
-<p align="center">
-business intelligence analyst focused on <b>Sales Ops, RevOps & Market Intelligence</b>
-</p>
-
-<p align="center">
-🏛️ also studying Chinese language and culture · 💬 she/her · 🦋 INFP-T
-</p>
-
-<p align="center">
-🇧🇷 native · 🇺🇸 C1 · 🇪🇸 B1 · 🇨🇳 HSK1
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/leticiastahl/">linkedin</a> ·
-<a href="https://medium.com/@leticiastahl">medium</a> ·
-<a href="https://www.behance.net/leticiastahl">behance</a> ·
-<a href="mailto:dev.leticiagoes@gmail.com">email</a>
-</p>
-
-<br />
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=letstahl&theme=github-dark-dimmed&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com/?user=letstahl&theme=default&hide_border=true&background=00000000" alt="GitHub streak stats" width="480" />
-</picture>
-</p>
+[English version](#english)
 
 ---
 
-<p><b>projects</b></p>
+## Sobre meu trabalho
 
-<table>
-<tr>
-<td width="40">💻</td>
-<td>
+Tenho interesse na interseção entre:
 
-**[portfolio.py](https://github.com/letstahl/portfolio.py)** · [live](https://letstahl.github.io/portfolio.py/)
-personal portfolio built as a fake code editor: tabs, syntax highlighting, an expandable skills pipeline linking to real projects, PT/EN/ES support, and light/dark themes.
-`HTML · CSS · JavaScript`
+- relações China–Brasil;
+- comércio exterior e economia política;
+- jornalismo de dados;
+- visualização e narrativa de dados;
+- comunicação científica;
+- pesquisa reproduzível;
+- comunicação intercultural.
 
-</td>
-</tr>
-<tr>
-<td width="40">📈</td>
-<td>
+Minha formação em Ciência de Dados me levou ao interesse por perguntas sociais, políticas e culturais que podem ser exploradas com dados públicos e apresentadas de forma acessível.
 
-**[brazil-trading-with-the-world](https://github.com/letstahl/brazil-trading-with-the-world/tree/main)**
-automated, zero-cost pipeline for Brazil's foreign trade data. from raw government files to a governed BigQuery model and a live Looker Studio dashboard.
-`Cloud Run · BigQuery · Cloud Scheduler · Python · Looker Studio`
+Atualmente, estou construindo projetos que conectam análise quantitativa, estudos chineses e comunicação visual da pesquisa.
 
-</td>
-</tr>
-<tr>
-<td>🎬</td>
-<td>
+## Projetos em destaque
 
-**[oscars-best-director-gender-gap](https://github.com/letstahl/oscars-best-director-gender-gap)** · [live](https://letstahl.github.io/oscars-best-director-gender-gap/)
-scroll-driven data story on the Oscars' gender gap in Best Director nominations, from 1928 to 2025.
-`D3.js · Scrollytelling · Data Storytelling`
+### [Brazil Trading with the World](https://github.com/letstahl/brazil-trading-with-the-world )
 
-</td>
-</tr>
-<tr>
-<td>🩺</td>
-<td>
+Pipeline automatizada para análise de dados do comércio exterior brasileiro, desde a coleta de dados oficiais até o armazenamento e a visualização em dashboard.
 
-**[pbip-doctor](https://github.com/letstahl/pbip-doctor)**
-skill for Claude Code that catches silent errors in Power BI `.pbip` projects. invalid comments, broken references, serialization issues.
-`MCP · Power BI · TMDL`
+**Python · SQL · BigQuery · Cloud Run · Looker Studio**
 
-</td>
-</tr>
-<tr>
-<td>🔍</td>
-<td>
+### [It Took Almost a Century to See Them on the Stage](https://github.com/letstahl/oscars-best-director-gender-gap )
 
-**[fraud-detection-comparative-analysis](https://github.com/letstahl/fraud-detection-comparative-analysis)**
-8 ML models compared for credit card fraud detection. predictive performance vs. computational efficiency.
-`Databricks · MLflow · PySpark · XGBoost · Random Forest · CatBoost · LightGBM`
+Narrativa visual interativa sobre a desigualdade de gênero na categoria de Melhor Direção do Oscar entre 1928 e 2025.
 
-</td>
-</tr>
-<tr>
-<td>🤝</td>
-<td>
+**D3.js · JavaScript · Data storytelling · GitHub Pages**
 
-**[mercado_solidario](https://github.com/edunucleo/mercado_solidario)**
-digitized a community food distribution program. family registration, stock control, and donor points, split between a hand-built PHP admin app and a WordPress public site.
-`PHP · MySQL · WordPress · Bootstrap`
+### [Fraud Detection: Comparative Analysis](https://github.com/letstahl/fraud-detection-comparative-analysis )
 
-</td>
-</tr>
-<tr>
-<td>🎥</td>
-<td>
+Análise comparativa de modelos de machine learning para detecção de fraudes, considerando desempenho preditivo, eficiência computacional e escalabilidade.
 
-**[90smovies-netflix](https://github.com/letstahl/90smovies-netflix)**
-EDA playground on 90s Netflix movies, less about the answers and more about chart-choice reasoning. line vs. bar vs. box plot vs. word cloud, and why each fits the question.
-`Python · Pandas · Matplotlib · Seaborn`
+**Python · Pandas · PySpark · MLflow · Machine Learning**
 
-</td>
-</tr>
-</table>
+### [Portfolio](https://github.com/letstahl/portfolio.py )
+
+Meu portfólio pessoal, desenvolvido como uma interface de editor de código.
+
+**HTML · CSS · JavaScript · Acessibilidade · Design responsivo**
+
+## O que estou estudando
+
+- Língua e cultura chinesas;
+- relações internacionais e relações China–Brasil;
+- comércio exterior;
+- visualização de dados;
+- comunicação pública da ciência;
+- métodos de pesquisa e análise de dados.
+
+## Ferramentas
+
+`Python` · `pandas` · `SQL` · `Jupyter` · `D3.js` · `JavaScript` · `Power BI` · `BigQuery` · `GitHub Pages`
+
+## Atualmente
+
+Estou desenvolvendo uma linha de projetos sobre China–Brasil que combina:
+
+1. dados públicos e análise quantitativa;
+2. visualização interativa;
+3. pesquisa interdisciplinar;
+4. comunicação para públicos acadêmicos e não acadêmicos.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/leticiastahl/ )
+- [Portfólio](https://letstahl.github.io/portfolio.py/ )
+- [GitHub](https://github.com/letstahl )
+
+---
+
+<a name="english"></a>
+
+# English
+
+Data scientist and student of Chinese language and culture at UNESP.
+
+I explore China–Brazil relations through data, visualization and public scholarship.
+
+## Research interests
+
+- China–Brazil relations;
+- foreign trade and political economy;
+- data journalism;
+- data visualization and storytelling;
+- science communication;
+- reproducible research;
+- intercultural communication.
+
+My background in Data Science led me to explore social, political and cultural questions through public data and accessible visual narratives.
+
+I am currently developing projects that connect quantitative analysis, Chinese studies and visual communication of research.
+
+## Selected projects
+
+- [Brazil Trading with the World](https://github.com/letstahl/brazil-trading-with-the-world ) — automated pipeline for Brazilian foreign trade data.
+- [It Took Almost a Century to See Them on the Stage](https://github.com/letstahl/oscars-best-director-gender-gap ) — interactive data story about gender inequality at the Academy Awards.
+- [Fraud Detection: Comparative Analysis](https://github.com/letstahl/fraud-detection-comparative-analysis ) — comparative study of machine learning models for fraud detection.
+- [Portfolio](https://github.com/letstahl/portfolio.py ) — personal portfolio built as a code editor interface.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/leticiastahl/ )
+- [Portfolio](https://letstahl.github.io/portfolio.py/ )
+- [GitHub](https://github.com/letstahl )
